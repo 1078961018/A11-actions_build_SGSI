@@ -1,7 +1,7 @@
 {
-  "rom_url": "https://bigota.d.miui.com/V12.5.7.0.RJDCNXM/miui_APOLLO_V12.5.7.0.RJDCNXM_ec7c843271_11.0.zip",
-  "rom_name": "miui_APOLLO_V12.5.7.0.RJDCNXM_ec7c843271_11.0.zip",
-  "pack_sgsi": "miui_APOLLO_V12.5.7.0.RJDCNXM-SGSI.zip",
+  "rom_url": "https://hugeota.d.miui.com/22.2.28/miui_CEZANNE_22.2.28_0f1ed7a1fe_11.0.zip",
+  "rom_name": "miui_CEZANNE_22.2.28_0f1ed7a1fe_11.0.zip",
+  "pack_sgsi": "SGSI.zip",
   "make_type": "AB",
   "rom_type": "miui",
   "light_fix": true,
